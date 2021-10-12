@@ -1,0 +1,8 @@
+/* css reset */
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(muscles.jpg);
+    height: 85px;
+    width: 1000px;
+}
